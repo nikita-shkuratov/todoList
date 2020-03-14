@@ -11,7 +11,7 @@ export const About = () => {
         <div className="social-share">
           <a
             title='Project link in git'
-            href="https://github.com/nikita-shkuratov/react-biaro/blob/master/src/Components/Footer/Footer.jsx">
+            href="https://github.com/nikita-shkuratov/todoList/tree/master/todo">
             <i className="fa fa-github" aria-hidden="true"></i></a>
         </div>
       </div>
