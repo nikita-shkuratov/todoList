@@ -7,20 +7,18 @@ export const Navbar = () => {
             <div className="navbar-brand">
                 Note App
         </div>
-
-            <ul class="navbar-nav">
-                <li class="nav-item">
+            <ul className="navbar-nav">
+                <li className="nav-item">
                     <NavLink
                         className="nav-link"
                         to="/"
                         exact>Home</NavLink>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item">
                     <NavLink
                         className="nav-link"
                         to="/about">About</NavLink>
                 </li>
-
             </ul>
         </nav>
     )
